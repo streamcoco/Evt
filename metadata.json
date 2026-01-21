@@ -1,0 +1,7 @@
+{
+  "name": "Cerebro Digital (Second Brain)",
+  "description": "Una aplicación de gestión de conocimiento personal (PKM) móvil. Integra IA para notas, hábitos, tareas y seguimiento de salud (calorías/macros).",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
